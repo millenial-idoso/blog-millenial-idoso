@@ -1,0 +1,15 @@
+{
+  "name": "millenial-idoso-blog",
+  "version": "1.0.0",
+  "description": "Blog Millennial Idoso",
+  "scripts": {
+    "dev": "hugo server --buildDrafts",
+    "build": "hugo --minify"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.2.1",
+    "tailwindcss": "^4.2.1"
+  }
+}
