@@ -1,0 +1,29 @@
+colorScheme = "congo"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+[homepage]
+  layout = "page"
+  showRecent = true
+  recentLimit = 10
+
+mainSections = ["posts"]
+
+[article]
+  showDate = true
+  showReadingTime = true
+  showTableOfContents = false
+  showHeadingAnchors = true
+  showPagination = true
+
+[list]
+  showBreadcrumbs = false
+  groupByYear = true
+
+[header]
+  layout = "basic"
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showScrollToTop = true

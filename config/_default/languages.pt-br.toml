@@ -1,0 +1,11 @@
+languageCode = "pt-br"
+languageName = "Português"
+weight = 1
+title = "Millennial Idoso"
+
+[params]
+  dateFormat = "2 de January de 2006"
+  description = "Um blog sobre tecnologia, cultura e a vida de quem cresceu entre dois mundos."
+
+  [params.author]
+    name = "Millennial Idoso"

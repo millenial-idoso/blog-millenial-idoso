@@ -1,0 +1,10 @@
+baseURL = "https://millenial-idoso.vercel.app/"
+defaultContentLanguage = "pt-br"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 10
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
