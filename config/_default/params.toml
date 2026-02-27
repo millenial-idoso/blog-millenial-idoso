@@ -12,7 +12,7 @@ mainSections = ["posts"]
 [article]
   showDate = true
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   showHeadingAnchors = true
   showPagination = true
 
