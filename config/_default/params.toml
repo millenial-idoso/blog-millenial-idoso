@@ -22,9 +22,9 @@ mainSections = ["posts"]
 
 [header]
   layout = "basic"
-  showAppearanceSwitcher = true
 
 [footer]
   showCopyright = true
   showThemeAttribution = false
   showScrollToTop = true
+  showAppearanceSwitcher = true
