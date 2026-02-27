@@ -4,13 +4,12 @@ date: 2026-02-26
 draft: false
 
 featureimage: "https://i.ibb.co/RG9DwKnH/download.png"
-featureimagecaption: "Você não baixaria um carro"
+featureimagecaption: "\"Você não baixaria um carro\""
 
 ---
 
 \**Ou para qualquer um que não aguenta mais pagar 300 streamings e receber propaganda na cara.*
 
-!["Você não baixaria um carro"](https://i.ibb.co/RG9DwKnH/download.png "Você não baixaria um carro")
 ## INTRODUÇÃO
 
 Há muito, muito tempo, numa internet muito, muito distante, quando as velocidades de transmissão não eram estratosféricas, a rede não pertencia a basicamente três empresas e as mídias físicas ainda eram relevantes do lado de fora do monitor, tudo que tínhamos éramos uns aos outros e as barraquinhas de camelô para termos acesso a conteúdos culturais variados.
@@ -51,8 +50,8 @@ Ou seja: contanto que você não esteja na intenção de abrir uma barraca para 
 
 
 ## ANTES DE COMEÇAR A NAVEGAR
-![Wolverine](https://i.ibb.co/GQB5qv4n/lyk8muv7det81.jpg)
-> ***“Charles, o mundo não é mais o mesmo”.***
+![Wolverine](https://i.ibb.co/GQB5qv4n/lyk8muv7det81.jpg "\"Charles, o mundo não é mais o mesmo.\"")
+
 
 Do meio da primeira década dos anos 2000 em diante, a internet se tornou um campo de batalha das *Big Techs* para ver quem colocava muros ao redor da porra toda primeiro. E além de cercar e limitar, esses mesmos muros também estão cheios de propagandas **praticamente lapidadas à mão para satisfazer o interesse de cada consumidor.** Além disso e das obvias questões de privacidade e coleta de dados, elas poluem visualmente a experiência média de navegação. Por este e mais alguns outros motivos, é necessário ter uma certa preparação antes de navegarmos por estas águas.
 
@@ -663,7 +662,7 @@ Para não dizer que não dei nenhuma dica útil, caso você se interesse por jog
 **Também vale deixar [**esse link nos favoritos**](tab:https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)**. Nele você vai encontrar um porrilhão de links úteis para ferramentas, sites e outras coisas relacionadas a **Steam**.
 
 
-# CONCLUSÃO ✨
+## CONCLUSÃO ✨
 Espero que as instruções nesse humilde guia sejam de utilidade para todos que queiram consumir e compartilhar material cultural na internet. Quando a rede foi criada o principal propósito era conectar e aproximar pessoas de todos cantos do mundo, com ideias e afinidades parecidas. Agora, com tudo que estamos vivendo, cabe a nós sermos a resistência contra modelos de negócio abusivos e redes sociais excludentes e vazias.
 
 Passe a palavra para todos que possam ter interesse. Deixe sua colaboração nos comentários para que este guia possa ficar ainda melhor e vamos, pouco a pouco, retomando o espaço que nos foi negado. 🏴‍☠️
