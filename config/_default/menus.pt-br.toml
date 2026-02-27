@@ -2,8 +2,3 @@
   name = "Posts"
   pageRef = "posts"
   weight = 10
-
-[[main]]
-  name = "Sobre"
-  pageRef = "sobre"
-  weight = 20
