@@ -5,7 +5,11 @@ title = "Millennial Idoso"
 
 [params]
   dateFormat = "2 de January de 2006"
-  description = "Um blog sobre tecnologia, cultura e a vida de quem cresceu entre dois mundos."
+  description = ""
 
   [params.author]
     name = "Millennial Idoso"
+    links = [
+      { github = "https://github.com/seu-usuario" },
+      { bluesky = "https://bsky.app/profile/millenial-idoso.bsky.social" },
+    ]

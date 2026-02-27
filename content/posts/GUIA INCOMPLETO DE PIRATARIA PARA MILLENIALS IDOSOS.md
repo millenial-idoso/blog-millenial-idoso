@@ -235,7 +235,7 @@ Então chega de enrolar e vamos ao que interessa.
 
 ---
 
-# **VÍDEO** (FILMES, SÉRIES e ANIMES) 📽️
+## **VÍDEO** (FILMES, SÉRIES e ANIMES) 📽️
 > *Skills possivelmente necessárias:* 
 > - Baixar e descompactar arquivos
 > - Instalação e configuração de programas
@@ -460,7 +460,7 @@ Com as setas do controle, clique na caixinha ao lado do idioma, que mostra o nom
 
 Ao clicar nela, o vídeo voltará a ser reproduzido e a interface de sincronização ficara aparecendo no canto inferior da tela. Clique em ➕ ou ➖ para adiantar ou atrasar a legenda até o ponto certo. Quando conseguir sincronizar, basta apertar Ok ou Enter e a reprodução continuará.
 
-# MÚSICA 🎧
+## MÚSICA 🎧
 > *Skills possivelmente necessárias:* 
 
 > - Baixar e descompactar arquivos
@@ -552,7 +552,7 @@ Ainda no campo dos players físicos, se estiver disposto a investir um pouco mai
 Obviamente que para a reprodução nesse modelo você vai precisar de internet, pelo menos para deixar os arquivos baixados no aparelho. Também não estou muito por dentro dos apks hackeados de Android, mas sei que volta e meia algum deles é tirado do ar, então vale uma pesquisa mais profunda no Reddit para conferir qual é a melhor opção no momento.
 
 
-# SOFTWARES 💽
+## SOFTWARES 💽
 > *Skills possivelmente necessárias:* 
 
 > - Baixar e descompactar arquivos
@@ -642,7 +642,7 @@ Dentro da ISO também pode haver uma pasta com o crack e as instruções de hack
 
 Após a instalação, vá até a unidade de DVD virtual, clique com o botão direito do mouse e depois na opção "Ejetar" para que ele desapareça.
 
-# GAMES 🎮
+## GAMES 🎮
 > *Skills possivelmente necessárias:* 
 > - Baixar e descompactar arquivos
 > - Pesquisa
@@ -666,6 +666,3 @@ Para não dizer que não dei nenhuma dica útil, caso você se interesse por jog
 Espero que as instruções nesse humilde guia sejam de utilidade para todos que queiram consumir e compartilhar material cultural na internet. Quando a rede foi criada o principal propósito era conectar e aproximar pessoas de todos cantos do mundo, com ideias e afinidades parecidas. Agora, com tudo que estamos vivendo, cabe a nós sermos a resistência contra modelos de negócio abusivos e redes sociais excludentes e vazias.
 
 Passe a palavra para todos que possam ter interesse. Deixe sua colaboração nos comentários para que este guia possa ficar ainda melhor e vamos, pouco a pouco, retomando o espaço que nos foi negado. 🏴‍☠️
-
----
-## **[Deixe seu comentário](tab:https://komments.cloud/80b3b8bc24f6ab85f6db55)**

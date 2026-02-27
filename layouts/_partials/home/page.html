@@ -1,0 +1,14 @@
+<article class="prose max-w-full dark:prose-invert">
+  {{ with .Title }}
+    <header>
+      <h1 style="color: rgb(var(--color-primary-500)); margin-bottom: 0.25rem;">{{ . | emojify }}</h1>
+    </header>
+  {{ end }}
+  <section>{{ .Content | emojify }}</section>
+</article>
+<div style="color: white; font-size: 1.25rem; margin-top: -0.5rem; margin-bottom: 1.5rem;">
+  {{ partial "author-links.html" $ }}
+</div>
+<section>
+  {{ partial "recent-articles.html" . }}
+</section>
