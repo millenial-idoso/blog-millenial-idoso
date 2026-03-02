@@ -16,6 +16,7 @@ mainSections = ["posts"]
   showHeadingAnchors = true
   showPagination = true
   showAuthor = false
+  showComments = true
 
 [list]
   showBreadcrumbs = false
