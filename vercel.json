@@ -1,6 +1,6 @@
 {
   "buildCommand": "hugo --minify",
   "outputDirectory": "public",
-  "installCommand": "npm install && hugo mod download",
+  "installCommand": "npm install",
   "framework": null
 }
