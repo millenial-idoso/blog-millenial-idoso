@@ -1,0 +1,105 @@
+/* GFM Alerts */
+.gh-alert {
+  padding: 0.75rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 4px solid;
+  border-radius: 4px;
+}
+
+.gh-alert-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  font-size: 0.875rem;
+  margin-bottom: 0.5rem;
+}
+
+.gh-alert-body > :last-child {
+  margin-bottom: 0;
+}
+
+.gh-alert-note {
+  border-color: #0969da;
+  background-color: #ddf4ff;
+  color: inherit;
+}
+.gh-alert-note .gh-alert-heading {
+  color: #0969da;
+}
+
+.gh-alert-tip {
+  border-color: #1a7f37;
+  background-color: #dafbe1;
+  color: inherit;
+}
+.gh-alert-tip .gh-alert-heading {
+  color: #1a7f37;
+}
+
+.gh-alert-important {
+  border-color: #8250df;
+  background-color: #fbefff;
+  color: inherit;
+}
+.gh-alert-important .gh-alert-heading {
+  color: #8250df;
+}
+
+.gh-alert-warning {
+  border-color: #9a6700;
+  background-color: #fff8c5;
+  color: inherit;
+}
+.gh-alert-warning .gh-alert-heading {
+  color: #9a6700;
+}
+
+.gh-alert-caution {
+  border-color: #d1242f;
+  background-color: #ffebe9;
+  color: inherit;
+}
+.gh-alert-caution .gh-alert-heading {
+  color: #d1242f;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .gh-alert-note {
+    border-color: #58a6ff;
+    background-color: #0d1117;
+  }
+  .gh-alert-note .gh-alert-heading { color: #58a6ff; }
+
+  .gh-alert-tip {
+    border-color: #3fb950;
+    background-color: #0d1117;
+  }
+  .gh-alert-tip .gh-alert-heading { color: #3fb950; }
+
+  .gh-alert-important {
+    border-color: #a371f7;
+    background-color: #0d1117;
+  }
+  .gh-alert-important .gh-alert-heading { color: #a371f7; }
+
+  .gh-alert-warning {
+    border-color: #d29922;
+    background-color: #0d1117;
+  }
+  .gh-alert-warning .gh-alert-heading { color: #d29922; }
+
+  .gh-alert-caution {
+    border-color: #f85149;
+    background-color: #0d1117;
+  }
+  .gh-alert-caution .gh-alert-heading { color: #f85149; }
+}
+
+/* --------------- */
+
+.prose :where(code):not(:where([class~="not-prose"],[class~="not-prose"] *))::before,
+.prose :where(code):not(:where([class~="not-prose"],[class~="not-prose"] *))::after {
+  content: "";
+}

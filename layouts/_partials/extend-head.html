@@ -3,3 +3,23 @@
     color: #fff;
   }
 </style>
+
+{{- if .Params.math -}}
+  {{ $katexCSS := resources.Get "lib/katex/katex.min.css" | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $katexCSS.Permalink }}" integrity="{{ $katexCSS.Data.Integrity }}" crossorigin="anonymous" />
+  {{ $katexJS := resources.Get "lib/katex/katex.min.js" | resources.Fingerprint }}
+  <script defer src="{{ $katexJS.Permalink }}" integrity="{{ $katexJS.Data.Integrity }}" crossorigin="anonymous"></script>
+  {{ $autoRender := resources.Get "lib/katex/auto-render.min.js" | resources.Fingerprint }}
+  <script defer src="{{ $autoRender.Permalink }}" integrity="{{ $autoRender.Data.Integrity }}" crossorigin="anonymous"
+    onload="renderMathInElement(document.body, {
+      delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '\\[', right: '\\]', display: true},
+        {left: '$', right: '$', display: false},
+        {left: '\\(', right: '\\)', display: false}
+      ],
+      throwOnError: false
+    });">
+  </script>
+  {{ range resources.Match "lib/katex/fonts/*" }}{{ .Publish }}{{ end }}
+{{- end -}}
