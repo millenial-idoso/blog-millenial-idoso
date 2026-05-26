@@ -110,7 +110,7 @@ Basta instalar a extensão **Sponsor Block** - [Firefox](https://addons.mozilla.
 
 Após instalar você poderá **configurar o que quer pular automaticamente** nos vídeos. Por padrão ele pula os *mechans*, mas você também pode escolher dar um *auto skip* em recapitulações, piadinhas que não tenham a ver com o tema, pedidos de like entre outras coisas.
 
-> *=="Mas como isso é possível?"==*
+> =="Mas como isso é possível?"==
 
 Ele funciona por meio de *crowdsource*. **Ou seja, os próprios usuários marcam onde está cada trecho no vídeo**.
 
@@ -160,7 +160,7 @@ Se quiser explorar **mais opções de modificação e até tentar usar outros cl
 
 Para muitos, o fim do suporte ao Windows 10 foi a gota d'água para mudar de sistema de vez. **Então talvez você também devesse considerar essa opção**.
 
-> *=="Ai lá vem o chato recomendar Linux!"==* 😮‍💨
+> *=="Ai lá vem o chato recomendar Linux!"==* 🙄
 
 Sim, o chato vai recomendar que você use Linux, mas calma! Também vou te dar uma opção de como ***desmerdificar*** o Windows daqui a pouco. Segura aí.
 
@@ -195,8 +195,8 @@ Pra não enrolar muito, **caso você esteja disposto a partir pro pinguim** vou 
 - [Pop!_Os](https://system76.com/pop/)
 
 > *=="Faltou a distro XYZ…"==*
->
-> Calma amigão, são só sugestões. Se quiser, deixe a sua distro favorita nos comentários.
+
+Calma amigão, são só sugestões. Se quiser, deixe a sua distro favorita nos comentários.
 
 **Obviamente que existem trocentas outras *distros***, mas começar com qualquer uma dessas é o ideal para você ir se acostumando à casa nova.
 

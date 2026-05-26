@@ -99,6 +99,31 @@
 
 /* --------------- */
 
+/* Remove aspas decorativas dos blockquotes */
+.prose :where(blockquote p:first-of-type):not(:where([class~="not-prose"],[class~="not-prose"] *))::before,
+.prose :where(blockquote p:last-of-type):not(:where([class~="not-prose"],[class~="not-prose"] *))::after {
+  content: "";
+}
+
+/* --------------- */
+
+/* Highlight ==text== */
+mark {
+  background-color: #fef08a;
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  mark {
+    background-color: #713f12;
+    color: #fef9c3;
+  }
+}
+
+/* --------------- */
+
 .prose :where(code):not(:where([class~="not-prose"],[class~="not-prose"] *))::before,
 .prose :where(code):not(:where([class~="not-prose"],[class~="not-prose"] *))::after {
   content: "";
