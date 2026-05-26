@@ -1,7 +1,7 @@
 ---
 title: "GUIA INCOMPLETO DO BLOQUEIO DE ANÚNCIOS"
 date: 2026-05-25
-draft: true
+draft: false
 
 featureimage: "https://aito.com.my/wp-content/uploads/2024/06/Billboardterbakar-1024x576.jpg"
 featureimagecaption: "\"Queima desgraça\""

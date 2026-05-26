@@ -4,6 +4,9 @@
   }
 </style>
 
+<script>window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };</script>
+<script defer src="/_vercel/insights/script.js"></script>
+
 {{- if .Params.math -}}
   {{ $katexCSS := resources.Get "lib/katex/katex.min.css" | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $katexCSS.Permalink }}" integrity="{{ $katexCSS.Data.Integrity }}" crossorigin="anonymous" />
