@@ -253,7 +253,7 @@ Antes de começar a baixar tudo que você quer, vamos preparar o local da sua bi
 
 E só pra ter certeza, também **é essencial que sua TV esteja conectada à mesma rede que o seu computador** (seja pelo Wi-Fi ou no cabo), o que provavelmente já é o que acontece, mas não custa checar.  
 
-**HORA DE FAZER A BIBLIOTECA COM O PLEX**
+### HORA DE FAZER A BIBLIOTECA COM O PLEX
 
 **Antes que a galera com mais conhecimento técnico voe nos comentários**: sim, eu sei que o Plex não é open-source e pode ter algumas coisas pagas. E sim, eu sei que existe o [**Jellyfin**](tab:https://jellyfin.org/).
 
@@ -278,7 +278,7 @@ O app para TV é apenas **um "front-end" para o server no seu computador**. Ele 
 
 Após o download do Plex Server, instale o programa normalmente. Só dar próximo, próximo e fim.
 
-**CRIANDO AS BIBLIOTECAS**
+### CRIANDO AS BIBLIOTECAS
 
 Depois de instalado e executado, o Plex Server fica aberto na bandeja do sistema / área de notificações (ao lado do relógio). Dando dois cliques no ícone ele deve abrir pelo seu **navegador**.
 
@@ -348,7 +348,7 @@ Para quem não lembra, sites de torrent geralmente te dão 2 opções: baixar o 
 
 Você reparará que alguns sites oferecem um **ícone de ímã** ao lado do arquivo que você está vendo, ao clicar no ímã o navegador pedirá para abrir o qBittorrent, pois é o programa associado a esse tipo de extensão. Da mesma maneira, o programa irá lhe mostrar o que será baixado.
 
-**CHEGAMOS A UM PONTO DE ATENÇÃO ⚠️**
+### CHEGAMOS A UM PONTO DE ATENÇÃO ⚠️
 
 Após abrir o arquivo .torrent ou clicar no link magnético, o qBittorrent prosseguirá abrindo uma janelinha que lhe permitirá **escolher onde o download será feito.** Aqui você define uma das pastas que criou anteriormente, referente ao que você estiver baixando: filme, série, anime, etc. Na mesma janela, no lado direito, **ele irá mostrar o conteúdo do torrent que será baixado.**
 
@@ -385,7 +385,7 @@ Nos links das *megathreads* você também encontra um glossário de nomenclatura
 - **Sobre o tipo de release:** aqui você vai encontrar vários tipos de nomenclaturas usadas para descrever de onde o conteúdo foi retirado ou ripado. Ele pode ter vindo de Bluray, streaming, *video on demand* ou, quando o filme é muito novo, pode ter sido gravado direto do cinema. Lembra? Sim, ainda fazem isso.
 **Então sempre que você ver um release com a nomenclatura CAM** é pq é um filme gravado de uma sessão. Ou seja, você já sabe que a qualidade não será a melhor possível, além de poder ter ruídos diversos no som e a possibilidade de ver a sombra de alguém passando na frente da tela.
 
-**EXCLUSÕES DE DOWNLOAD**
+### EXCLUSÕES DE DOWNLOAD
 
 **Mais uma dica:** caso sua intenção seja **baixar apenas vídeos pelo torrent**, vale **adicionar exclusões de download** nas opções do próprio qBittorrent, para que ele ignore arquivos com extensões potencialmente nocivas. Siga as instruções abaixo.
 
@@ -499,7 +499,7 @@ Basta clicar nas três bolinhas no canto inferior direito da capinha do item e e
 
 E agora finalmente, ao iniciar o app na TV, tudo que estiver no server deverá aparecer na televisão. **Pronto, sua própria Netflix!**
 
-**CASO SUA TV NÃO TENHA O APP DO PLEX**
+### CASO SUA TV NÃO TENHA O APP DO PLEX
 
 Se o seu aparelho não tem o Plex na loja de apps ou é uma TV não smart, a solução é encurtar o caminho e plugar seu PC/notebook diretamente nela **via cabo HDMI** e assistir pelo próprio Plex do PC.  
 
@@ -565,7 +565,7 @@ Se você usa celular com sistema Android, **a vida pode ser um pouco mais fácil
 
 Agora, se você usa o celular da maçã, a coisa já não é tão simples. Não há como fazer *sideloading* de apps de forma simples como no Android. A única opção seria fazendo jailbreaking, o que já envolve um processo muito mais complexo e que se você não souber fazer, pode colocar seu aparelho em risco.
 
-**BAIXANDO OS ARQUIVOS**
+### BAIXANDO OS ARQUIVOS
 
 Primeiro você vai precisar dar uma estudada de onde vai baixar suas músicas.
 
@@ -602,7 +602,7 @@ Também é bom contar com um programa que **organize sua biblioteca de mídia**,
 
 Também estou desatualizado nesse campo mas sei que programas como o [Mp3Tag](tab:https://www.mp3tag.de/en/) e o [MusicBrainz Picard](tab:https://picard.musicbrainz.org/) são boas opções para ajudar a renomear e achar metadados faltantes dos arquivos. Aqui também vale dar aquela estudada no tema, no repositório que linkei acima você vai encontrar diversas alternativas para essas funções.
 
-**PARA OS CRACKUDOS DE MÚSICA**
+### PARA OS CRACKUDOS DE MÚSICA
 
 Aqui eu falo tanto com quem escuta muita música como também com quem costuma **escutar em dispositivos diferentes ao longo do dia**. Se você, por exemplo, vai pro trabalho escutando música pelo celular, depois passa a trabalhar escutando música pelo computador — seja pelo aplicativo do streaming instalado na máquina ou pelo navegador —, depois chega em casa e coloca música pelo app da TV, por exemplo, o método mais simples não vai te servir.
 
@@ -622,7 +622,7 @@ Sem entrar em muitos detalhes, **o *pipeline* que você pode seguir para fazer o
 De maneira bem resumida, o túnel é como você vai "expor" o seu servidor para fora da sua rede local (internet da sua casa) de maneira segura e direta, para você configurar no app de reprodução;
 - **Acessar sua biblioteca dentro e fora de casa** por um aplicativo que faça streaming via seu server pessoal. Aqui existem várias opções como o Plexamp, Emby ou o supracitado Jellyfin. Todos esses tem o foco em usar suas músicas como fonte de reprodução, bastando configurar o endereço do qual eles farão o streaming dos arquivos.
 
-**PARA QUEM OUVE MÚSICA NO MODO CASUAL**
+### PARA QUEM OUVE MÚSICA NO MODO CASUAL
 
 Se você está no segundo grupo, dos que tem uma biblioteca mais "fixa", então o processo é similar ao que fazíamos na pré-história: você vai baixar os arquivos manualmente para o seu PC (ou ripar os CDs se essa for a sua vibe), colocá-los na sua pasta de músicas e depois carregá-los em seu dispositivo de reprodução de preferência.
 
@@ -689,7 +689,7 @@ Eu já utilizei esse método. Ele funciona bem por um tempo mas é muito comum q
 
 Portanto se você necessita desses programas, eu recomendo fortemente procurar pelo primeiro método. Você terá que baixar um instalador maior, mas terá menos dor de cabeça depois da instalação.
 
-**ALTERNATIVAS GRATUITAS**
+### ALTERNATIVAS GRATUITAS
 
 Se você depende profissionalmente dos softwares da Adobe, é bom ficar sabendo que no começo de 2025 a Canva — sim, aquela do aplicativo —, comprou a Affinity, uma das principais concorrentes no ramo de softwares de produção gráfica. Por conta da aquisição a Affinity reformulou seus apps, juntando todos num único [programa que agora é gratuito](tab:https://www.affinity.studio/pt_br/download). Claro que ainda não é um substituto *um pra um* de Photoshop e companhia, mas está bem próximo. Com o plus de que o Affinity **abre arquivos em .psd e .ai**. Talvez valha experimentar.
 
@@ -697,7 +697,7 @@ Agora, **se você não utiliza esse programas de maneira industrial**, pode vale
 
 O Gimp ainda não se compara 100% ao PS, mas pode servir pra maioria das edições que você precise fazer.  E o Inkscape atualmente é uma alternativa extremamente robusta ao Illustrator, mesmo sendo gratuito. Vale muito conferir.
 
-**MÉTODOS DE DOWNLOAD**
+### MÉTODOS DE DOWNLOAD
 
 Você pode encontrar programas com disponibilização em **torrent** ou via **download direto**. Vários sites especializados em programas crackeados presentes nas referências que passei costumam utilizar a segunda opção. Caso a aplicação que você esteja procurando seja muito grande, ainda é comum que eles disponibilizem os downloads **separados em partes**.
 
@@ -707,7 +707,7 @@ Você irá baixar as partes de servidores diretos (lembra do Megaupload? E do 4S
 
 Se você costuma baixar muita coisa de forma direta pelo navegador, vale também pesquisar sobre um bom **gerenciador de downloads**. Na sessão de ferramentas das *megathreads* você irá encontrar várias opções focadas nesse uso.
 
-**INSTALAÇÃO**
+### INSTALAÇÃO
 
 Se você baixou o programa em várias partes, notará que após a extensão do arquivo fica a identificação de qual pedaço é: **.part01**, **.part02**, etc. Deixe todas na mesma pasta e **descompacte apenas a primeira parte**. O programa vai identificar que as outras estão juntas e fará todo o trabalho.
 
