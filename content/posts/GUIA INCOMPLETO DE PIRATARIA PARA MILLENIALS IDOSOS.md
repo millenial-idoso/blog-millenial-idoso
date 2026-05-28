@@ -38,7 +38,7 @@ Ou, caso você não reconheça nenhum desses dinossauros citados acima e caiu aq
 \
 *§ 4o O disposto nos §§ 1o, 2o e 3o não se aplica quando se tratar de exceção ou limitação ao direito de autor ou os que lhe são conexos, em conformidade com o previsto na Lei nº 9.610, de 19 de fevereiro de 1998, **nem a cópia de obra intelectual ou fonograma, em um só exemplar, para uso privado do copista, sem intuito de lucro direto ou indireto**. (Incluído pela Lei nº 10.695, de 1º.7.2003)*\
 \
-Ou seja: contanto que você não esteja na intenção de abrir uma barraca para vender 3 DVDs por R$ 10 em pleno 2025, está suave.
+Ou seja: contanto que você não esteja na intenção de abrir uma barraca para vender 3 DVDs por R$ 10 em pleno 2026, está suave.
 
 > **3.** Neste guia, vou focar mais em conteúdo **audiovisual**, pois acredito que seja o tópico mais buscado pelos ex-piratas que me leem agora. Vou tentar dar uma pincelada sobre outras coisas também, mas não espere nada muito complexo.
 
@@ -573,7 +573,11 @@ Além dos links que deixei acima, você também pode **dar uma olhada [**nesse r
 
 > ***"Não posso mais baixar música pelo eMule?"***
 
-Foi-se o tempo do download por softwares P2P. Para quem for nostálgico acho que o [Soulseek](tab:https://www.slsknet.org/news/) ainda funciona, mas eu não me arriscaria.
+Foi-se o tempo do download por softwares P2P. Para quem for nostálgico acho que o [Soulseek](tab:https://www.slsknet.org/news/) ainda funciona, ~~mas eu não me arriscaria.~~
+
+**UPDATE:** Fui informado no Bluesky que o Soulseek ainda funciona *muito bem sim, obrigado*. Testei e realmente ainda tem muita gente utilizando e dá pra achar bastante coisa. Inclusive a rede dele é comumente utilizada por quem tem seu próprio *serverzinho* de músicas.
+
+Caso queira testar, a comunidade recomenda usar o [Nicotine+](https://nicotine-plus.org/) como cliente.
 
 
 > ***"Não dá pra baixar os mp3 a partir de vídeos no Youtube?"***
@@ -586,13 +590,15 @@ Além disso, a qualidade da música que vem a partir dos vídeos não é das mel
 
 Se seus fones de ouvido **não são *highend***, ou não tem uma qualidade tão absurda assim, então não vale a pena desperdiçar espaço com arquivos Flac. Baixe os mp3 mesmo e seja feliz. Mas certifique-se de que eles **não sejam ultra comprimidos** e tenham pelo menos uns 192kbps de amostragem para ter uma qualidade de áudio minimamente descente. **O mais recomendável são os arquivos com 320kbps de *bitrate*.**
 
-**Para artistas menos conhecidos** a coisa fica um pouco mais difícil. La na *megathread* e nas adjacentes você também vai encontrar links para sites e blogs dedicados a gêneros específicos de música, mas vai precisar garimpar para achar os álbuns se seu artista favorito for mais underground. Nesses casos você também pode checar **se a própria banda tem outras formas de disponibilizar suas músicas**. Alguns grupos costumam subir suas discografias no [Bandcamp](tab:https://bandcamp.com/) de forma gratuita ou pagando apenas um valor simbólico. Vale dar uma olhada nas redes sociais dos artistas que você gosta para saber se eles disponibilizam essa modalidade.
+**Para artistas menos conhecidos** a coisa fica um pouco mais difícil. La na *megathread* e nas adjacentes você também vai encontrar links para sites e blogs dedicados a gêneros específicos de música, mas vai precisar garimpar para achar os álbuns se seu artista favorito for mais underground.
+
+Nesses casos você também pode checar **se a própria banda tem outras formas de disponibilizar suas músicas**. Alguns grupos costumam subir suas discografias no [Bandcamp](tab:https://bandcamp.com/) de forma gratuita ou pagando apenas um valor simbólico. Vale dar uma olhada nas redes sociais dos artistas que você gosta para saber se eles disponibilizam essa modalidade.
 
 Além do download direto dos arquivos, lembre-se que **sempre há a opção de *ripar* um CD de um artista**, caso você tenha um exemplar pegando poeira aí na sua estante, ou mesmo queira ir garimpar num sebo. Claro que esse método vai demandar que você **tenha um computador com drive de CD/DVD**, o que já é uma raridade hoje em dia.
 
 Se você é apreciador das mídias físicas, tem uma coleção extensa de CDs e quer digitalizá-los, talvez valha adquirir um drive de DVD portátil que se conecta ao PC via USB.
 
-Também é bom contar com um programa que **organize sua biblioteca de mídia**, para que você não fique maluco com duplicatas, nomes inconsistentes e arquivos faltando a imagem da capa do álbum. Lembra quando perdíamos horas colocando as capinhas música por música? Pois é...
+Também é bom contar com um programa que **organize sua biblioteca de mídia**, para que você não fique maluco com duplicatas, nomes inconsistentes e arquivos faltando a imagem da capa do álbum. *Lembra quando perdíamos horas colocando as capinhas música por música? Pois é...*
 
 Também estou desatualizado nesse campo mas sei que programas como o [Mp3Tag](tab:https://www.mp3tag.de/en/) e o [MusicBrainz Picard](tab:https://picard.musicbrainz.org/) são boas opções para ajudar a renomear e achar metadados faltantes dos arquivos. Aqui também vale dar aquela estudada no tema, no repositório que linkei acima você vai encontrar diversas alternativas para essas funções.
 
@@ -606,11 +612,12 @@ Mas calma, se você estiver disposto a cair de cabeça nos oceanos do conteúdo 
 
 Sem entrar em muitos detalhes, **o *pipeline* que você pode seguir para fazer o seu próprio Spotify seria esse:** 
 
-- **Ter um servidor pessoal rodando programas como o [**Lidarr**](tab:https://lidarr.audio/) ou o [**Navidrome**](tab:https://www.navidrome.org/) por exemplo:** aqui já entra a paulada. Ter um computador dedicado em casa rodando 24h (ou pela maior parte do tempo) só pra hospedar as músicas. Você também pode usar a sua própria máquina mesmo, mas lembre-se que vai precisar de espaço em disco e disponibilidade para deixar ligado pelo menos enquanto você estiver escutando as músicas.
+- **Ter um servidor pessoal rodando programas como o [**Lidarr**](tab:https://lidarr.audio/) e o [**Navidrome**](tab:https://www.navidrome.org/) por exemplo:** aqui já entra a paulada. Ter um computador dedicado em casa rodando 24h (ou pela maior parte do tempo) só pra hospedar as músicas. Você também pode usar a sua própria máquina mesmo, mas lembre-se que vai precisar de espaço em disco e disponibilidade para deixar ligado pelo menos enquanto você estiver escutando as músicas.
   - Quando digo um servidor pessoal, não se trata de uma super máquina robusta. Pode ser algo mais humilde, tipo um computadorzinho usado de terminal em empresas ou mercadinhos de bairro, por exemplo. **Qualquer máquina com um processador *multicore*, como um i3 ou i5** (que também não precisam ser da geração mais nova), já serve para o propósito. E claro, **muito espaço livre em disco**;
   - Na parte do sistema, aí a coisa vai complicar um pouco e exigir mais conhecimento técnico. Na pouca experiência que tenho com esse tipo de setup, acredito que o que dê menos trabalho seja **instalar um sistema dedicado a gerenciar contêineres de [**Docker**](tab:https://pt.wikipedia.org/wiki/Docker_\(software\))**. O que tenho familiaridade é o [ZimaOS](tab:https://www.zimaspace.com/en/zimaos/download). Ele é uma versão modificada do Ubuntu Server que serve especificamente para você instalar os programas em Docker como se fossem simples aplicativos. Funciona **quase** sem nenhum setup muito difícil, mas eventualmente você vai precisar abrir o capô e mexer em configurações mais complexas;
-      - Para usuários bem mais avançados, acredito que o mais interessante seja partir direto para um sistema como o **[Proxmox](tab:https://www.proxmox.com/en/)**, que vai possibilitar um controle e gerenciamente muito mais específico e granular sobre o que está rodando na máquiona;
+      - Para usuários bem mais avançados, acredito que o mais interessante seja partir direto para um sistema como o **[Proxmox](tab:https://www.proxmox.com/en/)**, que vai possibilitar um controle e gerenciamente muito mais específico e granular sobre o que está rodando na máquina;
 - **Ter um domínio próprio:** um domínio, um nome de site. Domínios são pagos, mas você pode adquirir um pagando **pouco mais de R$ 50 por ano;**
+  - **UPDATE**: Estou começando a brincar nessa área. Ter um domínio é uma das opções que você pode utilizar para acessar seu conteúdo fora de casa. Também há a possibilidade de usar o [Tailscale](https://tailscale.com/) que é um serviço específico para esse tipo de acesso. Vale dar uma pesquisada.
 - **Criar um túnel na Cloudflare que aponte para o seu servidor:** essa parte é gratuita pelo menos, mas vai exigir um pouco de pesquisa para saber configurar, mas não é nenhuma ciência de foguete. Pra quem tem medo de mexer com essas coisas, usar uma inteligência artificial como conselheiro de configuração pode ajudar.
 De maneira bem resumida, o túnel é como você vai "expor" o seu servidor para fora da sua rede local (internet da sua casa) de maneira segura e direta, para você configurar no app de reprodução;
 - **Acessar sua biblioteca dentro e fora de casa** por um aplicativo que faça streaming via seu server pessoal. Aqui existem várias opções como o Plexamp, Emby ou o supracitado Jellyfin. Todos esses tem o foco em usar suas músicas como fonte de reprodução, bastando configurar o endereço do qual eles farão o streaming dos arquivos.
