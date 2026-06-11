@@ -67,7 +67,7 @@ Sim, você ainda tem que se preocupar com eles. No mais, vale a velha máxima: 
 
 Eu, particularmente, quando estou usando o sistema do *senhor Portões*, uso o próprio Windows Defender e tem me servido bem. 
 
-Se você não confia, pesquise entre as opções do mercado e veja a que [lhe cai melhor](tab:https://www.techtudo.com.br/listas/2024/06/melhor-antivirus-conheca-9-programas-para-proteger-o-seu-pc-edsoftwares.ghtml). 
+Se você não confia, pesquise entre as opções do mercado e veja a que [lhe cai melhor](https://www.techtudo.com.br/listas/2024/06/melhor-antivirus-conheca-9-programas-para-proteger-o-seu-pc-edsoftwares.ghtml). 
 
 Mas lembre de **não usar mais de um antivírus ao mesmo tempo!** Além de um atrapalhar o outro, você ainda pode perder performance em sua máquina. 
 
@@ -87,17 +87,17 @@ Principalmente se tiver aquele notebook velho guerreiro, que está encostado sem
 
 ## NAVEGADOR e EXTENSÕES 🌐
 
-**Resposta curta para todos os sistemas:** [Firefox](tab:https://www.firefox.com/pt-BR/?utm_campaign=SET_DEFAULT_BROWSER) + [uBlock Origin](tab:https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/) (com um navegador Chromium de backup como o [Vivaldi](tab:https://vivaldi.com/pt-br/download/) ou o [Ungoogled Chromium](tab:https://github.com/ungoogled-software/ungoogled-chromium) também com o [uBlock Origin](tab:https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=pt-BR&pli=1))
+**Resposta curta para todos os sistemas:** [Firefox](https://www.firefox.com/pt-BR/?utm_campaign=SET_DEFAULT_BROWSER) + [uBlock Origin](https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/) (com um navegador Chromium de backup como o [Vivaldi](https://vivaldi.com/pt-br/download/) ou o [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) também com o [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=pt-BR&pli=1))
 
 **Resposta longa:** Recentemente o Google vem numa cruzada ferrenha contra bloqueadores de anúncios.
 
-O Chrome, navegador mais popular do mercado, que pertence ao gigante das buscas, sofreu várias atualizações que fizeram extensões de bloqueio de anúncios pararem de funcionar ou não terem mais a mesma eficácia de antes. Quem quiser se aprofundar mais [procure sobre a atualização do Manifest v2 para v3](tab:https://plus.diolinux.com.br/t/conhecendo-um-pouco-mais-sobre-o-manifest-v2-e-v3/67794).
+O Chrome, navegador mais popular do mercado, que pertence ao gigante das buscas, sofreu várias atualizações que fizeram extensões de bloqueio de anúncios pararem de funcionar ou não terem mais a mesma eficácia de antes. Quem quiser se aprofundar mais [procure sobre a atualização do Manifest v2 para v3](https://plus.diolinux.com.br/t/conhecendo-um-pouco-mais-sobre-o-manifest-v2-e-v3/67794).
 
 No mercado de navegadores hoje existem basicamente três linhas a seguir: Chrome, Firefox ou Safari.
 
-Digo isso pois tudo que não é **Firefox —** ou seus derivados, como o Zen, Librewolf, Waterfox, etc — e **Safari,** é baseado em **Chromium**. Chrome, Edge, Brave, Arc, Vivaldi e companhia, por baixo do capô, [são tudo Chromium](tab:https://en.wikipedia.org/wiki/Chromium_\(web_browser\)).
+Digo isso pois tudo que não é **Firefox —** ou seus derivados, como o Zen, Librewolf, Waterfox, etc — e **Safari,** é baseado em **Chromium**. Chrome, Edge, Brave, Arc, Vivaldi e companhia, por baixo do capô, [são tudo Chromium](https://en.wikipedia.org/wiki/Chromium_\(web_browser\)).
 
-Alguns navegadores baseados em Chromium ainda resistem às mudanças do Google, como o Brave por exemplo, [porém eu pessoalmente não tenho muita simpatia pelo Brave pelos motivos que você pode ler aqui](tab:https://www.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/), mas o consenso geral pelos entusiastas é de que o Firefox ainda é o navegador mais “livre” e com melhor proteção de privacidade que temos. Se você quiser dar mais atenção a questões relacionadas a privacidade em sua navegação, alguns *forks* do Firefox como o [Librewolf](tab:https://librewolf.net/) e o [Mullvad](tab:https://mullvad.net/en/browser), por exemplo, são feitos exatamente com isso em mente, mas sempre vale dar aquela pesquisada e conferir o que lhe cai melhor.
+Alguns navegadores baseados em Chromium ainda resistem às mudanças do Google, como o Brave por exemplo, [porém eu pessoalmente não tenho muita simpatia pelo Brave pelos motivos que você pode ler aqui](https://www.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/), mas o consenso geral pelos entusiastas é de que o Firefox ainda é o navegador mais “livre” e com melhor proteção de privacidade que temos. Se você quiser dar mais atenção a questões relacionadas a privacidade em sua navegação, alguns *forks* do Firefox como o [Librewolf](https://librewolf.net/) e o [Mullvad](https://mullvad.net/en/browser), por exemplo, são feitos exatamente com isso em mente, mas sempre vale dar aquela pesquisada e conferir o que lhe cai melhor.
 
 **Aviso quanto ao Firefox**: Como o Google avançou firme no mercado de navegadores, o browser da raposa perdeu muito da sua base de usuários nos últimos anos, o que gerou um movimento de alguns desenvolvedores web otimizarem seus sites apenas para navegadores baseados em *Chromium,* acarretando em algumas páginas que não funcionam corretamente na raposinha. **É raro, mas é uma possibilidade**. Por isso, **vale ter um navegador Chromium secundário** instalado para usar nos sites que não carreguem certo no Firefox. Atualmente eu utilizo o Vivaldi como secundário e recomendo bastante. Use qualquer um da sua preferência, mas se puder evitar Chrome e Edge, é o ideal.
 
@@ -141,12 +141,12 @@ E é meio obvio mas preciso reforçar: **não use a mesma senha em todos os site
 
 Recomendo também que seja um e-mail de algum serviço baseado em privacidade — algo que obviamente não é o forte do Gmail.
 
-Se quiser criar um Gmail mesmo, não tem problema, mas seria mais interessante você já pensar em privacidade e proteção de dados na net. Para isso, pode optar por serviços como o [Proton](tab:https://proton.me/) ou [TutaMail](tab:https://mail.tutanota.com/login), que são os mais famosos com esse intuito. Se quiser explorar mais serviços do tipo, [clique nesse link e dê uma explorada](tab:https://awesome-privacy.xyz/communication/encrypted-email). Vale a pena.
+Se quiser criar um Gmail mesmo, não tem problema, mas seria mais interessante você já pensar em privacidade e proteção de dados na net. Para isso, pode optar por serviços como o [Proton](https://proton.me/) ou [TutaMail](https://mail.tutanota.com/login), que são os mais famosos com esse intuito. Se quiser explorar mais serviços do tipo, [clique nesse link e dê uma explorada](https://awesome-privacy.xyz/communication/encrypted-email). Vale a pena.
 
 
 ## PROGRAMA DE GERENCIAMENTO DE TORRENT ⏬
 
-**Resposta curta para usuários de Windows e Linux:** [qBittorrent](tab:https://www.qbittorrent.org/)
+**Resposta curta para usuários de Windows e Linux:** [qBittorrent](https://www.qbittorrent.org/)
 
 **Resposta longa:** provavelmente os softwares de download de torrents mais conhecidos sejam o *µTorrent* (a pronúncia correta é *mi-torrent* mas pode chamar de utorrent, para os íntimos) e o *BitTorrent*. Porém há alguns anos o *µTorrent* foi adquirido por uma empresa escusa e **se tornou um *adware* safado que vem com um monte de porcarias embutidas junto do programa**, caso você não preste atenção na instalação. Sem contar a mineração de bitcoin escondida que ele trazia há um tempinho.
 
@@ -165,7 +165,7 @@ Outras opções interessantes de mudar nas configurações do qBitTorrent:
 - Na aba "Velocidade" você pode setar limites para downloads e uploads de arquivos;
 - Na aba "BitTorrent" você pode definir limites de torrents ativos, tanto em downloads como em uploads.
 
-**Para usuários de MacOS:** [Transmission](tab:https://transmissionbt.com/download) ou [Deluge](tab:https://deluge-torrent.org/download/)
+**Para usuários de MacOS:** [Transmission](https://transmissionbt.com/download) ou [Deluge](https://deluge-torrent.org/download/)
 
 O qBittorrent possui uma versão para Mac, porém como o time de desenvolvimento é pequeno, eles não conseguem mantê-la em par com as versões mais novas para Windows e Linux, se quiser arriscar, acredito que não hajam tantas desvantagens, mas saiba que provavelmente ele não estará com as últimas correções e otimizações. 
 
@@ -173,7 +173,10 @@ O qBittorrent possui uma versão para Mac, porém como o time de desenvolvimento
 
 Se você **mora fora do Brasil** e/ou quer adicionar uma camada extra de privacidade, pode optar por assinar um serviço de VPN.
 
-Alguns serviços de confiança como o [Proton, possuem VPN ](tab:https://protonvpn.com/)[com opção gratuita](tab:https://protonvpn.com/) (com limitações, obviamente) se você quer mais essa segurança, acredito que valha dar uma testada.
+Alguns serviços de confiança como o [Proton, possuem VPN ](https://protonvpn.com/)[com opção gratuita](https://protonvpn.com/) (com limitações, obviamente) se você quer mais essa segurança, acredito que valha dar uma testada.
+
+> [!IMPORTANT]
+> **UPDATE**: Segundo a galera do Reddit, a VPN do Proton **na Europa** detecta se você está fazendo um download via P2P (download direto via um programa como o Soulseek, por exemplo ou torrent, etc) e bloqueia a transmissão. Então vale pesquisar outra alternativa se você mora nessa região.
 
 No mais, **se a VPN não é de uma empresa que você conheça, não use**. E absolutamente nunca use qualquer dessas VPNs "gratuitas" que são propagandeadas na web ou loja de aplicativos do seu celular. VPN é um serviço custoso para o provedor e você só terá segurança se assinar. Se o serviço é gratuito, você está pagando com seus dados e sabe-se lá o que mais.
 
@@ -181,7 +184,7 @@ Eu não utilizo nenhuma VPN por enquanto, portanto não posso dar um depoimento 
 
 ## ARQUIVOS COMPACTADOS 📁
 
-**Resposta curta para usuários de Windows: [7-Zip](tab:https://7-zip.org/download.html)** *(tem versão pra Linux mas todas as distribuições geralmente já dão conta de arquivos compactados de forma nativa, assim como o MacOS)*
+**Resposta curta para usuários de Windows: [7-Zip](https://7-zip.org/download.html)** *(tem versão pra Linux mas todas as distribuições geralmente já dão conta de arquivos compactados de forma nativa, assim como o MacOS)*
 
 **Resposta longa:** Uma última dica é para o gerenciamento de arquivos compactados. Eventualmente você terá que lidar com algum **arquivo em .zip ou .rar**. Seja para extrair uma legenda ou software baixado.
 
@@ -191,7 +194,7 @@ Se você baixou algo compactado no Windows e o arquivo está com um ícone em br
 
 ## MAS E O STREMIO?
 
-Vamos tirar o elefante da sala: não é mais fácil apenas usar o [Stremio](tab:https://www.stremio.com/)?
+Vamos tirar o elefante da sala: não é mais fácil apenas usar o [Stremio](https://www.stremio.com/)?
 
 Teoricamente, sim.
 
@@ -243,7 +246,7 @@ Então chega de enrolar e vamos ao que interessa.
 
 Como eu disse anteriormente, a intenção é que você consiga ver os filmes e séries no conforto do seu sofá. Caso você não queira ou não consiga utilizar dessa maneira, o caminho é ainda mais simples, já que basta ter apenas o qBittorrent pra baixar os arquivos e um player pra reproduzir a mídia no seu próprio computador. 
 
-Neste caso, você pode optar pelo bom e velho [VLC Player](tab:https://www.videolan.org/vlc/). Sim, ele mesmo, o sempre confiável tocador do cone laranja ainda existe e é a opção mais prática (talvez não a mais bonita, mas aí são outros quinhentos...) para você tocar os vídeos sem precisar de um monte de *codecs* para tipos de arquivos diferentes.
+Neste caso, você pode optar pelo bom e velho [VLC Player](https://www.videolan.org/vlc/). Sim, ele mesmo, o sempre confiável tocador do cone laranja ainda existe e é a opção mais prática (talvez não a mais bonita, mas aí são outros quinhentos...) para você tocar os vídeos sem precisar de um monte de *codecs* para tipos de arquivos diferentes.
 
 ### SETUP IDEAL
 
@@ -255,7 +258,7 @@ E só pra ter certeza, também **é essencial que sua TV esteja conectada à mes
 
 ### HORA DE FAZER A BIBLIOTECA COM O PLEX
 
-**Antes que a galera com mais conhecimento técnico voe nos comentários**: sim, eu sei que o Plex não é open-source e pode ter algumas coisas pagas. E sim, eu sei que existe o [**Jellyfin**](tab:https://jellyfin.org/).
+**Antes que a galera com mais conhecimento técnico voe nos comentários**: sim, eu sei que o Plex não é open-source e pode ter algumas coisas pagas. E sim, eu sei que existe o [**Jellyfin**](https://jellyfin.org/).
 
 Estou usando o Plex por basicamente dois motivos: mais fácil para a configuração remota com a TV e o recurso de download de legendas. No futuro posso mostrar o Jellyfin também para dar mais opções, mas para fins didáticos, vamos seguir com o Plex pra facilitar.
 
@@ -263,13 +266,13 @@ Plex é um programa que facilita a organização e reprodução dos vídeos, e a
 
 Aqui entra a parte paga que eu comentei, pois para reproduzir sua biblioteca em seu **dispositivo móvel**, você precisará **pagar pelo app no celular**. Não é nada absurdo e o pagamento é feito uma única vez, então pode ser que valha a pena, dependendo do seu uso.
 
-[Crie sua conta](tab:https://www.plex.tv/) e siga os próximos passos abaixo.
+[Crie sua conta](https://www.plex.tv/) e siga os próximos passos abaixo.
 
 Para continuarmos no *setup ideal*, primeiro confira se a sua TV possui o aplicativo do Plex em sua loja de apps. Caso a TV não tenha nativamente e você tenha algum dispositivo como TV Box/ChromeCast/Firestick/GoogleTV/Roku procure pelo Plex na loja do seu dispositivo e instale.
 
 Se você não tiver acesso a nenhuma dessas duas alternativas, então a próxima solução será ligar seu PC/Notebook diretamente na televisão via cabo HDMI. Falarei disso mais abaixo.
 
-O segundo passo [é baixar e instalar o Plex Server](tab:https://www.plex.tv/media-server-downloads/) no seu computador. **Atenção:** É o Plex **Server,** e não o comum**.**
+O segundo passo [é baixar e instalar o Plex Server](https://www.plex.tv/media-server-downloads/) no seu computador. **Atenção:** É o Plex **Server,** e não o comum**.**
 
 
 > ***"Ué, mas eu não acabei de instalá-lo na minha TV? Preciso instalar no computador também?"***
@@ -318,7 +321,7 @@ Uma vez que tudo esteja configurado no PC e o Plex Server rodando, basta abrir o
 
 Calma marujo, as coisas não são tão simples.
 
-**Resposta curta:** [Aqui](tab:https://pirataria.link/filmes-tv#%F0%9F%A7%B5-torrents), [aqui](tab:https://mediasavvy.pages.dev/Wiki/MoviesandTVShows.html#torrent-downloading) e [aqui](tab:https://fmhy.net/video#torrent-sites)
+**Resposta curta:** [Aqui](https://pirataria.link/filmes-tv#%F0%9F%A7%B5-torrents), [aqui](https://mediasavvy.pages.dev/Wiki/MoviesandTVShows.html#torrent-downloading) e [aqui](https://fmhy.net/video#torrent-sites)
 
 **Resposta longa:** Como eu disse antes, quero dar o conhecimento e as ferramentas para que você possa se virar sozinho. Não vou dar o endereço direto de nenhum site, pois como eu já disse antes, quando se trata de conteúdo pirataria, **nada é eterno**. 
 
@@ -328,17 +331,17 @@ Volta e meia queimam uma biblioteca de Alexandria e por isso **é essencial que 
 
 Por isso, vou mostrar alguns caminhos das pedras e você poderá sem muita dificuldade achar o que procura.
 
-### Começando com a — nem sempre atualizada, mas é melhor que nada — [megathread](tab:https://pirataria.link/) do [r/pirataria](tab:https://www.reddit.com/r/pirataria/).
+### Começando com a — nem sempre atualizada, mas é melhor que nada — [megathread](https://pirataria.link/) do [r/pirataria](https://www.reddit.com/r/pirataria/).
 
 Sei que muita gente pode não gostar — ou mesmo nem saber o que é — o Reddit, mas é inegável que por lá você vai encontrar muito material, links e poderá até tirar dúvidas sobre o assunto. Caso não tenha conta, recomendo criar uma pelo menos para passear pelos *subs* relacionados à pirataria e compartilhamento de conteúdo.
 
 Na ***megathread***, você encontrará uma imensidão de links para sites confiáveis, dicas, glossário e algumas coisas mais. Navegue até a sessão do material que você procura e comece a explorar alguns dos sites. Lá você encontrará tanto os sites que tocam os filmes/séries online, quanto os que possuem os torrents. Explore as opções e veja qual possui o conteúdo que você procura.
 
-### Além da *megathread* brasileira, você também pode [recorrer a versão gringa](tab:https://mediasavvy.pages.dev/Wiki/), lá do [r/piracy](tab:https://www.reddit.com/r/Piracy/).
+### Além da *megathread* brasileira, você também pode [recorrer a versão gringa](https://mediasavvy.pages.dev/Wiki/), lá do [r/piracy](https://www.reddit.com/r/Piracy/).
 
 É basicamente a mesma coisa, porém sem a parte do conteúdo dublado, mas também vale deixar nos favoritos para futuras consultas.
 
-### Outra opção gringa é a [versão da megathread](tab:https://fmhy.net/) do [r/FREEMEDIAHECKYEAH](tab:https://www.reddit.com/r/FREEMEDIAHECKYEAH/)
+### Outra opção gringa é a [versão da megathread](https://fmhy.net/) do [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/)
 
 Também muito parecida com as outras, além de contar com um blog com algumas atualizações eventuais.
 
@@ -510,7 +513,7 @@ Para controlar o PC eu usava um daqueles controles remotos *bluetooth* que você
 ### LEGENDAS
 Aqui você tem duas maneiras para obter as legendas:
 
-**Primeiro modo:** Baixando as legendas de antemão por algum dos [**sites indicados** na *megathread*](tab:https://pirataria.link/filmes-tv#%F0%9F%96%8A-legendas).
+**Primeiro modo:** Baixando as legendas de antemão por algum dos [**sites indicados** na *megathread*](https://pirataria.link/filmes-tv#%F0%9F%96%8A-legendas).
 
 Eu particularmente costumo pegar principalmente do **OpenSubtitles.org**:
 
@@ -549,7 +552,7 @@ Ao clicar nela, o vídeo voltará a ser reproduzido e a interface de sincroniza�
 
 ***Resposta curta:*** Esta é a uma das partes que eu estou **desatualizado** e que vai **depender muito** do seu caso de uso.
 
-- **Links possivelmente úteis:** [esse](tab:https://pirataria.link/musica#%F0%9F%93%A5-%E2%9E%9C-download-direto), [esse](tab:https://pirataria.link/musica#%F0%9F%93%B1-%E2%9E%9C-celular) e [esse](tab:https://github.com/MoonWalker440/Music-Megathread)
+- **Links possivelmente úteis:** [esse](https://pirataria.link/musica#%F0%9F%93%A5-%E2%9E%9C-download-direto), [esse](https://pirataria.link/musica#%F0%9F%93%B1-%E2%9E%9C-celular) e [esse](https://github.com/MoonWalker440/Music-Megathread)
 
 ***Resposta longa:*** Se você for um **crackudo de música como eu**, que está o tempo inteiro escutando música, procurando por bandas/artistas novos e constantemente ligado nos lançamentos dos que você já segue, **e seu objetivo seja manter os arquivos com você**, então infelizmente o *streaming* ainda vai ser a melhor opção.
 
@@ -557,11 +560,11 @@ Pelo que eu sei, até existem opções de fazer para músicas algo parecido com 
 
 Por outro lado, se você **não é tão dependente assim de música**, ou escuta sempre as mesmas coisas e não enjoa tão fácil, os velhos métodos ainda podem lhe servir.
 
-[Comece dando uma olhada nessa parte dos links.](tab:https://pirataria.link/musica#%F0%9F%93%A5-%E2%9E%9C-download-direto) Também fique de olho em alguns dos sites em que você for baixar filmes, pois eles podem ter conteúdos variados.
+[Comece dando uma olhada nessa parte dos links.](https://pirataria.link/musica#%F0%9F%93%A5-%E2%9E%9C-download-direto) Também fique de olho em alguns dos sites em que você for baixar filmes, pois eles podem ter conteúdos variados.
 
 Também vai depender de **como você escuta música**. Pelo celular, computador, televisão, dispositivo dedicado? Tudo isso vai interferir.
 
-Se você usa celular com sistema Android, **a vida pode ser um pouco mais fácil**. Existem várias versões hackeadas de streamings como o próprio Spotify, em que você consegue instalar um .apk e escutar músicas sem anúncios. [Dê uma olhada nessa seção de links](tab:https://pirataria.link/musica#%F0%9F%93%B1-%E2%9E%9C-celular) e [nesse repositório aqui](tab:https://github.com/MoonWalker440/Music-Megathread). Também dê uma boa fuçada [lá no Reddit](tab:https://www.reddit.com/r/pirataria/), pois a galera sabe quais apps estão funcionando no momento.
+Se você usa celular com sistema Android, **a vida pode ser um pouco mais fácil**. Existem várias versões hackeadas de streamings como o próprio Spotify, em que você consegue instalar um .apk e escutar músicas sem anúncios. [Dê uma olhada nessa seção de links](https://pirataria.link/musica#%F0%9F%93%B1-%E2%9E%9C-celular) e [nesse repositório aqui](https://github.com/MoonWalker440/Music-Megathread). Também dê uma boa fuçada [lá no Reddit](https://www.reddit.com/r/pirataria/), pois a galera sabe quais apps estão funcionando no momento.
 
 Agora, se você usa o celular da maçã, a coisa já não é tão simples. Não há como fazer *sideloading* de apps de forma simples como no Android. A única opção seria fazendo jailbreaking, o que já envolve um processo muito mais complexo e que se você não souber fazer, pode colocar seu aparelho em risco.
 
@@ -569,15 +572,18 @@ Agora, se você usa o celular da maçã, a coisa já não é tão simples. Não 
 
 Primeiro você vai precisar dar uma estudada de onde vai baixar suas músicas.
 
-Além dos links que deixei acima, você também pode **dar uma olhada [**nesse repositório**](tab:https://github.com/MoonWalker440/Music-Megathread/)** com uma compilação muito boa de links para diversos tipos de recursos com foco em áudio.
+Além dos links que deixei acima, você também pode **dar uma olhada [**nesse repositório**](https://github.com/MoonWalker440/Music-Megathread/)** com uma compilação muito boa de links para diversos tipos de recursos com foco em áudio.
 
 > ***"Não posso mais baixar música pelo eMule?"***
 
-Foi-se o tempo do download por softwares P2P. Para quem for nostálgico acho que o [Soulseek](tab:https://www.slsknet.org/news/) ainda funciona, ~~mas eu não me arriscaria.~~
+Foi-se o tempo do download por softwares P2P. Para quem for nostálgico acho que o [Soulseek](https://www.slsknet.org/news/) ainda funciona, ~~mas eu não me arriscaria.~~
 
-**UPDATE:** Fui informado no Bluesky que o Soulseek ainda funciona *muito bem sim, obrigado*. Testei e realmente ainda tem muita gente utilizando e dá pra achar bastante coisa. Inclusive a rede dele é comumente utilizada por quem tem seu próprio *serverzinho* de músicas.
+> [!IMPORTANT]
+> **UPDATE:** Fui informado no Bluesky que o Soulseek ainda funciona *muito bem sim, obrigado*. Testei e realmente ainda tem muita gente utilizando e dá pra achar bastante coisa. Inclusive a rede dele é comumente utilizada por quem tem seu próprio *serverzinho* de músicas.
+>
+> Caso queira testar, a comunidade recomenda usar o [Nicotine+](https://nicotine-plus.org/) como cliente.
 
-Caso queira testar, a comunidade recomenda usar o [Nicotine+](https://nicotine-plus.org/) como cliente.
+
 
 
 > ***"Não dá pra baixar os mp3 a partir de vídeos no Youtube?"***
@@ -586,13 +592,13 @@ A opção existe, mas com certeza não é a mais prática. Primeiro você precis
 
 Além disso, a qualidade da música que vem a partir dos vídeos não é das melhores. Você pode conseguir arquivos com compressão muito melhor e de maneira mais prática seguindo os passos abaixo. Mas se você quer apenas uma **música muito específica ou versão que só tenha em vídeo no Youtube**, essa opção ainda é válida.
 
-**Para músicas de artistas mais conhecidos**, provavelmente você vai achar as discografias com facilidade em sites de torrent ou blogs dedicados. Agora, além dos tradicionais mp3 que usávamos nos primórdios, você também encontrará música em formato [*Flac*](tab:https://pt.wikipedia.org/wiki/FLAC). O Flac é um tipo de arquivo *lossless*, ou seja, ele retém a qualidade original da gravação, o que faz com que a reprodução soe muito melhor. Porém você perceberá que arquivos nesse formato são bem maiores que os mp3 comuns. **Aqui vai depender do que você quer e do seu equipamento.**
+**Para músicas de artistas mais conhecidos**, provavelmente você vai achar as discografias com facilidade em sites de torrent ou blogs dedicados. Agora, além dos tradicionais mp3 que usávamos nos primórdios, você também encontrará música em formato [*Flac*](https://pt.wikipedia.org/wiki/FLAC). O Flac é um tipo de arquivo *lossless*, ou seja, ele retém a qualidade original da gravação, o que faz com que a reprodução soe muito melhor. Porém você perceberá que arquivos nesse formato são bem maiores que os mp3 comuns. **Aqui vai depender do que você quer e do seu equipamento.**
 
 Se seus fones de ouvido **não são *highend***, ou não tem uma qualidade tão absurda assim, então não vale a pena desperdiçar espaço com arquivos Flac. Baixe os mp3 mesmo e seja feliz. Mas certifique-se de que eles **não sejam ultra comprimidos** e tenham pelo menos uns 192kbps de amostragem para ter uma qualidade de áudio minimamente descente. **O mais recomendável são os arquivos com 320kbps de *bitrate*.**
 
 **Para artistas menos conhecidos** a coisa fica um pouco mais difícil. La na *megathread* e nas adjacentes você também vai encontrar links para sites e blogs dedicados a gêneros específicos de música, mas vai precisar garimpar para achar os álbuns se seu artista favorito for mais underground.
 
-Nesses casos você também pode checar **se a própria banda tem outras formas de disponibilizar suas músicas**. Alguns grupos costumam subir suas discografias no [Bandcamp](tab:https://bandcamp.com/) de forma gratuita ou pagando apenas um valor simbólico. Vale dar uma olhada nas redes sociais dos artistas que você gosta para saber se eles disponibilizam essa modalidade.
+Nesses casos você também pode checar **se a própria banda tem outras formas de disponibilizar suas músicas**. Alguns grupos costumam subir suas discografias no [Bandcamp](https://bandcamp.com/) de forma gratuita ou pagando apenas um valor simbólico. Vale dar uma olhada nas redes sociais dos artistas que você gosta para saber se eles disponibilizam essa modalidade.
 
 Além do download direto dos arquivos, lembre-se que **sempre há a opção de *ripar* um CD de um artista**, caso você tenha um exemplar pegando poeira aí na sua estante, ou mesmo queira ir garimpar num sebo. Claro que esse método vai demandar que você **tenha um computador com drive de CD/DVD**, o que já é uma raridade hoje em dia.
 
@@ -600,7 +606,7 @@ Se você é apreciador das mídias físicas, tem uma coleção extensa de CDs e 
 
 Também é bom contar com um programa que **organize sua biblioteca de mídia**, para que você não fique maluco com duplicatas, nomes inconsistentes e arquivos faltando a imagem da capa do álbum. *Lembra quando perdíamos horas colocando as capinhas música por música? Pois é...*
 
-Também estou desatualizado nesse campo mas sei que programas como o [Mp3Tag](tab:https://www.mp3tag.de/en/) e o [MusicBrainz Picard](tab:https://picard.musicbrainz.org/) são boas opções para ajudar a renomear e achar metadados faltantes dos arquivos. Aqui também vale dar aquela estudada no tema, no repositório que linkei acima você vai encontrar diversas alternativas para essas funções.
+Também estou desatualizado nesse campo mas sei que programas como o [Mp3Tag](https://www.mp3tag.de/en/) e o [MusicBrainz Picard](https://picard.musicbrainz.org/) são boas opções para ajudar a renomear e achar metadados faltantes dos arquivos. Aqui também vale dar aquela estudada no tema, no repositório que linkei acima você vai encontrar diversas alternativas para essas funções.
 
 ### PARA OS CRACKUDOS DE MÚSICA
 
@@ -612,10 +618,10 @@ Mas calma, se você estiver disposto a cair de cabeça nos oceanos do conteúdo 
 
 Sem entrar em muitos detalhes, **o *pipeline* que você pode seguir para fazer o seu próprio Spotify seria esse:** 
 
-- **Ter um servidor pessoal rodando programas como o [**Lidarr**](tab:https://lidarr.audio/) e o [**Navidrome**](tab:https://www.navidrome.org/) por exemplo:** aqui já entra a paulada. Ter um computador dedicado em casa rodando 24h (ou pela maior parte do tempo) só pra hospedar as músicas. Você também pode usar a sua própria máquina mesmo, mas lembre-se que vai precisar de espaço em disco e disponibilidade para deixar ligado pelo menos enquanto você estiver escutando as músicas.
+- **Ter um servidor pessoal rodando programas como o [**Lidarr**](https://lidarr.audio/) e o [**Navidrome**](https://www.navidrome.org/) por exemplo:** aqui já entra a paulada. Ter um computador dedicado em casa rodando 24h (ou pela maior parte do tempo) só pra hospedar as músicas. Você também pode usar a sua própria máquina mesmo, mas lembre-se que vai precisar de espaço em disco e disponibilidade para deixar ligado pelo menos enquanto você estiver escutando as músicas.
   - Quando digo um servidor pessoal, não se trata de uma super máquina robusta. Pode ser algo mais humilde, tipo um computadorzinho usado de terminal em empresas ou mercadinhos de bairro, por exemplo. **Qualquer máquina com um processador *multicore*, como um i3 ou i5** (que também não precisam ser da geração mais nova), já serve para o propósito. E claro, **muito espaço livre em disco**;
-  - Na parte do sistema, aí a coisa vai complicar um pouco e exigir mais conhecimento técnico. Na pouca experiência que tenho com esse tipo de setup, acredito que o que dê menos trabalho seja **instalar um sistema dedicado a gerenciar contêineres de [**Docker**](tab:https://pt.wikipedia.org/wiki/Docker_\(software\))**. O que tenho familiaridade é o [ZimaOS](tab:https://www.zimaspace.com/en/zimaos/download). Ele é uma versão modificada do Ubuntu Server que serve especificamente para você instalar os programas em Docker como se fossem simples aplicativos. Funciona **quase** sem nenhum setup muito difícil, mas eventualmente você vai precisar abrir o capô e mexer em configurações mais complexas;
-      - Para usuários bem mais avançados, acredito que o mais interessante seja partir direto para um sistema como o **[Proxmox](tab:https://www.proxmox.com/en/)**, que vai possibilitar um controle e gerenciamente muito mais específico e granular sobre o que está rodando na máquina;
+  - Na parte do sistema, aí a coisa vai complicar um pouco e exigir mais conhecimento técnico. Na pouca experiência que tenho com esse tipo de setup, acredito que o que dê menos trabalho seja **instalar um sistema dedicado a gerenciar contêineres de [**Docker**](https://pt.wikipedia.org/wiki/Docker_\(software\))**. O que tenho familiaridade é o [ZimaOS](https://www.zimaspace.com/en/zimaos/download). Ele é uma versão modificada do Ubuntu Server que serve especificamente para você instalar os programas em Docker como se fossem simples aplicativos. Funciona **quase** sem nenhum setup muito difícil, mas eventualmente você vai precisar abrir o capô e mexer em configurações mais complexas;
+      - Para usuários bem mais avançados, acredito que o mais interessante seja partir direto para um sistema como o **[Proxmox](https://www.proxmox.com/en/)**, que vai possibilitar um controle e gerenciamente muito mais específico e granular sobre o que está rodando na máquina;
 - **Ter um domínio próprio:** um domínio, um nome de site. Domínios são pagos, mas você pode adquirir um pagando **pouco mais de R$ 50 por ano;**
   - **UPDATE**: Estou começando a brincar nessa área. Ter um domínio é uma das opções que você pode utilizar para acessar seu conteúdo fora de casa. Também há a possibilidade de usar o [Tailscale](https://tailscale.com/) que é um serviço específico para esse tipo de acesso. Vale dar uma pesquisada.
 - **Criar um túnel na Cloudflare que aponte para o seu servidor:** essa parte é gratuita pelo menos, mas vai exigir um pouco de pesquisa para saber configurar, mas não é nenhuma ciência de foguete. Pra quem tem medo de mexer com essas coisas, usar uma inteligência artificial como conselheiro de configuração pode ajudar.
@@ -645,7 +651,7 @@ Obviamente que para a reprodução nesse modelo você vai precisar de internet, 
 > - Instalação de aplicativos
 > - Pesquisa
 
-***Resposta curta:*** [aqui](tab:https://pirataria.link/softwares), [aqui](tab:https://mediasavvy.pages.dev/Wiki/Software.html) e [aqui](tab:https://fmhy.net/downloading#software-sites)
+***Resposta curta:*** [aqui](https://pirataria.link/softwares), [aqui](https://mediasavvy.pages.dev/Wiki/Software.html) e [aqui](https://fmhy.net/downloading#software-sites)
 
 ***Resposta longa:*** Para programas de computador existe uma série de maneiras diferentes de fazer a instalação e processo de *cracking*. Então vai depender bem do que você precisa.
 
@@ -653,7 +659,7 @@ Como sempre, pesquise os sites mais confiáveis para baixar softwares piratas na
 
 Portanto se você não gosta de viver perigosamente e tem documentos sensíveis em sua máquina, **tenha um backup das suas coisas.**
 
-Não vou me aprofundar muito, mas caso você precise dos arquivos que tem e não pode perdê-los, vale dar uma lida sobre a [**regra 3-2-1 de backups**](tab:https://blog.datasafer.com.br/conheca-a-estrategia-de-backup-3-2-1/)**.** Se você for um usuário mais avançado e possuir um servidor pessoal para *selfhosting* de suas aplicações, já pode usá-lo também como nuvem pessoal.
+Não vou me aprofundar muito, mas caso você precise dos arquivos que tem e não pode perdê-los, vale dar uma lida sobre a [**regra 3-2-1 de backups**](https://blog.datasafer.com.br/conheca-a-estrategia-de-backup-3-2-1/)**.** Se você for um usuário mais avançado e possuir um servidor pessoal para *selfhosting* de suas aplicações, já pode usá-lo também como nuvem pessoal.
 
 Aqui também vai entrar aquela questão que eu citei lá no começo **sobre a exclusão de checagem do antivírus**. Por padrão os antivírus escaneiam tudo que é baixado para o computador assim que os arquivos são criados. Então desde o momento que você começa o download de um programa pirata ele já está sendo escaneado pelo software de proteção e consequentemente pode gerar um alerta e bloqueio.
 
@@ -691,9 +697,9 @@ Portanto se você necessita desses programas, eu recomendo fortemente procurar p
 
 ### ALTERNATIVAS GRATUITAS
 
-Se você depende profissionalmente dos softwares da Adobe, é bom ficar sabendo que no começo de 2025 a Canva — sim, aquela do aplicativo —, comprou a Affinity, uma das principais concorrentes no ramo de softwares de produção gráfica. Por conta da aquisição a Affinity reformulou seus apps, juntando todos num único [programa que agora é gratuito](tab:https://www.affinity.studio/pt_br/download). Claro que ainda não é um substituto *um pra um* de Photoshop e companhia, mas está bem próximo. Com o plus de que o Affinity **abre arquivos em .psd e .ai**. Talvez valha experimentar.
+Se você depende profissionalmente dos softwares da Adobe, é bom ficar sabendo que no começo de 2025 a Canva — sim, aquela do aplicativo —, comprou a Affinity, uma das principais concorrentes no ramo de softwares de produção gráfica. Por conta da aquisição a Affinity reformulou seus apps, juntando todos num único [programa que agora é gratuito](https://www.affinity.studio/pt_br/download). Claro que ainda não é um substituto *um pra um* de Photoshop e companhia, mas está bem próximo. Com o plus de que o Affinity **abre arquivos em .psd e .ai**. Talvez valha experimentar.
 
-Agora, **se você não utiliza esse programas de maneira industrial**, pode valer a pena procurar por uma alternativa gratuita e open source, que cubra suas expectativas de uso. Você pode dar uma olhada nesse [repositório com alternativas gratuitas a softwares famosos](tab:https://github.com/mustbeperfect/definitive-opensource#image-editing). E para a duplinha dinâmica Photoshop e Illustrator, pode experimentar o [GIMP](tab:https://www.gimp.org/) (recomendo instalar também o [plugin Photogimp](tab:https://github.com/Diolinux/PhotoGIMP) para deixá-lo com uma interface mais parecida com a do PS) para arquivos *bitmap* e o [Inkscape](tab:https://inkscape.org/pt-br/) para arquivos de *vetor.* 
+Agora, **se você não utiliza esse programas de maneira industrial**, pode valer a pena procurar por uma alternativa gratuita e open source, que cubra suas expectativas de uso. Você pode dar uma olhada nesse [repositório com alternativas gratuitas a softwares famosos](https://github.com/mustbeperfect/definitive-opensource#image-editing). E para a duplinha dinâmica Photoshop e Illustrator, pode experimentar o [GIMP](https://www.gimp.org/) (recomendo instalar também o [plugin Photogimp](https://github.com/Diolinux/PhotoGIMP) para deixá-lo com uma interface mais parecida com a do PS) para arquivos *bitmap* e o [Inkscape](https://inkscape.org/pt-br/) para arquivos de *vetor.* 
 
 O Gimp ainda não se compara 100% ao PS, mas pode servir pra maioria das edições que você precise fazer.  E o Inkscape atualmente é uma alternativa extremamente robusta ao Illustrator, mesmo sendo gratuito. Vale muito conferir.
 
@@ -719,7 +725,7 @@ Outro ponto comum de acontecer é que o instalador do programa que você baixou 
 
 **Aqui você tem duas opções:** A primeira é descompactar a ISO para ter acesso ao conteúdo. Você pode usar o próprio 7-Zip para isso, porém irá precisar de espaço em disco, ao menos o mesmo espaço do tamanho do arquivo .iso.
 
-A segunda opção, que eu particularmente prefiro, não exige descompactar o arquivo. Você pode usar um [programa tipo o WinCDEmu](tab:https://wincdemu.sysprogs.org/portable/). **Ele cria um driver de DVD virtual, que você usará para emular a ISO**. Este link é para a versão portátil da ferramenta, então você não vai precisar nem instalá-lo.
+A segunda opção, que eu particularmente prefiro, não exige descompactar o arquivo. Você pode usar um [programa tipo o WinCDEmu](https://wincdemu.sysprogs.org/portable/). **Ele cria um driver de DVD virtual, que você usará para emular a ISO**. Este link é para a versão portátil da ferramenta, então você não vai precisar nem instalá-lo.
 
 Execute-o e ele irá criar um driver virtual no sistema. Depois arraste o arquivo .iso para dentro da janela do WinCDEmu e o seu "driver" irá "rodar" o DVD. Entre no disco pelo explorer e instale-o. Geralmente vai ter um arquivo nomeado como **"autorun.exe"** ou **"autostart.exe"**.
 
@@ -732,7 +738,7 @@ Após a instalação, vá até a unidade de DVD virtual, clique com o botão dir
 > - Baixar e descompactar arquivos
 > - Pesquisa
 
-***Resposta curta:*** [aqui](tab:https://pirataria.link/jogos#%F0%9F%93%A5-%E2%9E%9C-download-direto), [aqui](tab:https://mediasavvy.pages.dev/Wiki/Games.html) e [aqui](tab:https://fmhy.net/gaming)
+***Resposta curta:*** [aqui](https://pirataria.link/jogos#%F0%9F%93%A5-%E2%9E%9C-download-direto), [aqui](https://mediasavvy.pages.dev/Wiki/Games.html) e [aqui](https://fmhy.net/gaming)
 
 ***Resposta longa:*** Esse é o tópico que eu realmente estou mais por fora de todos. Já baixei e já comprei vários jogos piratas de PC em décadas passadas, porém atualmente, com pouco tempo na vida adulta para me dedicar ao entretenimento eletrônico, não posso dar um depoimento muito abalizado sobre a prática.
 
@@ -742,9 +748,9 @@ Para jogos AAA, sempre procure por *packs* feitos por grupos e **crackers famoso
 
 Que eu lembre, jogos crackeados não precisam de nenhum setup específico, basta baixar, instalar e correr pro abraço. Mas como eu reforcei várias vezes: **leia a documentação do site que você está pegando o conteúdo.**
 
-Para não dizer que não dei nenhuma dica útil, caso você se interesse por jogos um pouco mais antigos, **vale dar uma olhada no [**PC Game Wiki**](tab:https://www.pcgamingwiki.com/wiki/Home)**. Ele contém um banco de dados de mods, patches e gambiarras que você pode precisar fazer para rodar jogos de outras eras.
+Para não dizer que não dei nenhuma dica útil, caso você se interesse por jogos um pouco mais antigos, **vale dar uma olhada no [**PC Game Wiki**](https://www.pcgamingwiki.com/wiki/Home)**. Ele contém um banco de dados de mods, patches e gambiarras que você pode precisar fazer para rodar jogos de outras eras.
 
-**Também vale deixar [**esse link nos favoritos**](tab:https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)**. Nele você vai encontrar um porrilhão de links úteis para ferramentas, sites e outras coisas relacionadas a **Steam**.
+**Também vale deixar [**esse link nos favoritos**](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)**. Nele você vai encontrar um porrilhão de links úteis para ferramentas, sites e outras coisas relacionadas a **Steam**.
 
 
 ## CONCLUSÃO ✨
