@@ -40,19 +40,22 @@ Algumas coisas daqui **eu vou literalmente copiar** do **[Guia incompleto da Pir
 
 ### NAVEGADOR e EXTENSÕES 🌐
 
-**Resposta curta para todos os sistemas:** **[Firefox](https://www.firefox.com/pt-BR/?utm_campaign=SET_DEFAULT_BROWSER)** + **[uBlock Origin](https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/)** (com um navegador Chromium de backup como o **[Vivaldi](https://vivaldi.com/pt-br/download/)** ou o Ungoogled Chromium também com o [uBlock Origin](tab:https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=pt-BR&pli=1))
+**Resposta curta para todos os sistemas:** **[Firefox](https://www.firefox.com/pt-BR/?utm_campaign=SET_DEFAULT_BROWSER)** + **[uBlock Origin](https://addons.mozilla.org/pt-BR/firefox/addon/ublock-origin/)** (com um navegador Chromium de backup como o **[Vivaldi](https://vivaldi.com/pt-br/download/)** ou o Ungoogled Chromium também com o [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=pt-BR&pli=1))
 
 > Links para o Ungoogle Chromium: [Linux](https://github.com/ungoogled-software/ungoogled-chromium) • [Windows](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases) • [Mac](https://github.com/ungoogled-software/ungoogled-chromium-macos/releases)
 
 **Resposta longa:** Recentemente o Google vem numa cruzada ferrenha contra bloqueadores de anúncios.
 
-O Chrome, navegador mais popular do mercado, que pertence ao gigante das buscas, sofreu várias atualizações que fizeram extensões de bloqueio de anúncios pararem de funcionar ou não terem mais a mesma eficácia de antes. Quem quiser se aprofundar mais [procure sobre a atualização do Manifest v2 para v3](tab:https://plus.diolinux.com.br/t/conhecendo-um-pouco-mais-sobre-o-manifest-v2-e-v3/67794).
+O Chrome, navegador mais popular do mercado, que pertence ao gigante das buscas, sofreu várias atualizações que fizeram extensões de bloqueio de anúncios pararem de funcionar ou não terem mais a mesma eficácia de antes. Quem quiser se aprofundar mais [procure sobre a atualização do Manifest v2 para v3](https://plus.diolinux.com.br/t/conhecendo-um-pouco-mais-sobre-o-manifest-v2-e-v3/67794).
 
 No mercado de navegadores hoje **existem basicamente três linhas a seguir**: Chrome, Firefox ou Safari.
 
-Digo isso pois tudo que não é **Firefox —** ou seus derivados, como o Zen, Librewolf, Waterfox, etc — e **Safari,** é baseado em **Chromium**. Chrome, Edge, Brave, Arc, Vivaldi e companhia, por baixo do capô, [são tudo Chromium](tab:https://en.wikipedia.org/wiki/Chromium_\(web_browser\)).
+Digo isso pois tudo que não é **Firefox —** ou seus derivados, como o Zen, Librewolf, Waterfox, etc — e **Safari,** é baseado em **Chromium**. Chrome, Edge, Brave, Arc, Vivaldi e companhia, por baixo do capô, [são tudo Chromium](https://en.wikipedia.org/wiki/Chromium_\(web_browser\)).
 
-Alguns navegadores baseados em Chromium ainda resistem às mudanças do Google, como o Brave por exemplo, **[porém eu pessoalmente não tenho muita simpatia pelo Brave pelos motivos que você pode ler aqui](tab:https://www.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/)**, mas o consenso geral pelos entusiastas é de que o Firefox ainda é o navegador mais “livre” e com melhor proteção de privacidade que temos. Se você quiser dar mais atenção à questões relacionadas a privacidade em sua navegação, alguns *forks* do Firefox como o [Librewolf](tab:https://librewolf.net/) e o [Mullvad](tab:https://mullvad.net/en/browser), por exemplo, são feitos exatamente com isso em mente, mas sempre vale dar aquela pesquisada e conferir o que lhe cai melhor.
+Alguns navegadores baseados em Chromium ainda resistem às mudanças do Google, como o Brave por exemplo, **[porém eu pessoalmente não tenho muita simpatia pelo Brave pelos motivos que você pode ler aqui](https://www.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/)**, mas o consenso geral pelos entusiastas é de que o Firefox ainda é o navegador mais “livre” e com melhor proteção de privacidade que temos. Se você quiser dar mais atenção à questões relacionadas a privacidade em sua navegação, alguns *forks* do Firefox como o [Librewolf](https://librewolf.net/) e o [Mullvad](https://mullvad.net/en/browser), por exemplo, são feitos exatamente com isso em mente, mas sempre vale dar aquela pesquisada e conferir o que lhe cai melhor.
+
+> [!IMPORTANT]
+> **UPDATE**: A partir da versão 150 do Chrome o Google vai dropar de vez o suporte ao MV2, o que impossibilitará o uBlock Origin de funcionar plentamente. Portanto Vivaldi, Opera, Edge e até mesmo o Ungoogled Chromium não contarão mais com o bloqueador de anúncios. Ao que parece, o Brave ainda vai resistir, mas não se sabe até quando. Portanto, a única opção que resta para eliminar 100% de anúncios é o Firefox e derivados.
 
 **Aviso quanto ao Firefox**: Como o Google avançou firme no mercado de navegadores, o browser da raposa perdeu muito da sua base de usuários nos últimos anos, o que gerou um movimento de alguns desenvolvedores web otimizarem seus sites apenas para navegadores baseados em *Chromium,* acarretando em algumas páginas que não funcionam corretamente na raposinha. **É raro, mas é uma possibilidade**. Por isso, **vale ter um navegador Chromium secundário** instalado para usar nos sites que não carreguem certo no Firefox. Atualmente eu utilizo o Vivaldi como secundário e recomendo bastante. Use qualquer um da sua preferência, mas se puder evitar Chrome e Edge, é o ideal.
 
@@ -206,8 +209,10 @@ Quem manja um pouco talvez já tenha ouvido falar do processo de *debloat / uncr
 
 Para tirar as tralhas do Windows 11, existem algumas maneiras já conhecidas como o **[Win11Debloat](https://github.com/Raphire/Win11Debloat)** e o **[Windows 11 Debloater](https://windowsdebloater.com/)**. Basta **ler e seguir as instruções** nos respectivos sites para dar uma limpada no seu sistema.
 
-Outra alternativa que vai te ajudar a deixar o Win11 magrinho **desde a instalação** é o script **[autounnatended](https://schneegans.de/windows/unattend-generator/)**. **Essa opção já é bem mais complexa, então recomendo seguir algum tutorial se for fazer**, [como esse aqui do ET](https://www.youtube.com/watch?v=kQM-iv7TQz0&list=WL&index=61), por exemplo.
+Outra alternativa que vai te ajudar a deixar o Win11 magrinho **desde a instalação** é o script **[autounnatended](https://schneegans.de/windows/unattend-generator/)**. **Essa opção já é bem mais complexa, então recomendo seguir algum tutorial se for fazer**, [como esse aqui do canal 1155 do ET](https://www.youtube.com/watch?v=kQM-iv7TQz0&list=WL&index=61), por exemplo.
 
+> [!IMPORTANT]
+> **UPDATE**: Como apontaram no Reddit, esse tutorial do ET é legal, porém ele vai fundo e também desativa o Windows Update. Sei que as vezes é irritante, mas ter um computador desatualizado é pior do que ter que lidar com as inconveniências do Windows. Portanto não é recomendado desabilitar essa opção.
 
 ## MOBILE 📱
 
@@ -309,15 +314,21 @@ Ela funciona exatamente com a Play Store, você navega, procura e instala.
 
 Agora, para aplicações famosas e proprietárias como **Youtube, Instagram e companhia, você terá que recorrer a apps hackeados ou fazer um *patch* no seu app instalado.**
 
-A opção mais famosa nesse quesito é o **[ReVanced](https://revanced.app/)**. 
+~~A opção mais famosa nesse quesito é o **[ReVanced](https://revanced.app/)**.~~ 
 
-Quem é mais antigo no mundo Android talvez já tenha ouvido falar dos apps Revanced, que lhe permitem assistir Youtube sem anúncios, assim como utilizar Youtube Music também de forma gratuita.
+~~Quem é mais antigo no mundo Android talvez já tenha ouvido falar dos apps Revanced, que lhe permitem assistir Youtube sem anúncios, assim como utilizar Youtube Music também de forma gratuita.~~
 
-No momento estou sem acesso a um aparelho Android mais recente, então não tenho como testar 100% todos esses métodos, mas eles são consenso na comunidade.
+> [!IMPORTANT]
+> **UPDATE**: Muita gente no Reddit comentou com o ReVanced não se tornou mais uma fonte confiável e que realmente muitos dos *devs* que colaboravam no projeto foram para o **Morphe**. Consegui testar o app do Morphe num celular com Android recentemente e realmente funciona liso. Basta baixar, instalar e ele irá fazer o patch no seu app do Youtube, YoutubeMusic e demais suportados.
+
+~~No momento estou sem acesso a um aparelho Android mais recente, então não tenho como testar 100% todos esses métodos, mas eles são consenso na comunidade.~~
 
 Além deles agora também há o **[Morphe](https://morphe.software/)**.
 
 Ao que parece, alguns *devs* do projeto ReVanced andaram brigando e decidiram lançar seu próprio projeto de patches de apps. Então também vale dar uma olhada.
+
+> [!WARNING]
+> Sempre que você for instalar algum app "por fora" o Android vai reclamar. Primeiro veja se você consegue instalar .apks baixados da internet. Pesquise como fazer isso no seu aparelho. Depois, sempre que você tentar executar um arquivo desses, vai aparecer algum aviso de segurança. Já fique com isso em mente.
 
 Além disso, nos links que deixei acima na *[resposta curta](#android-)* você irá encontrar uma miríade de utilidades para seus sistema. Explore com calma e, novamente, **==sempre leia as instruções==**.
 
@@ -347,12 +358,15 @@ Caso você já tenha, maravilha. Se está pretendendo adquirir uma, pesquise bem
 
 > *=="E um Firestick, não rola?"==*
 
-Assim como Google, a Amazon também não é flor que se cheire e há um tempinho **deu um jeito de limitar instalação de aplicativos "de fora" no Firestick**. Então apesar dele reproduzir conteúdos em todas as resoluções nos outros streamings, para todo o resto ele vai ser limitado.
+Assim como Google, a Amazon também não é flor que se cheire e há um tempinho **deu um jeito de limitar instalação de aplicativos "de fora" no Firestick. Então apesar dele reproduzir conteúdos em todas as resoluções nos outros streamings, para todo o resto ele vai ser limitado.
+
+> [!IMPORTANT]
+> **UPDATE**: A galera do Reddit também recomendou instalar um *launcher* personalizado para retirar todas as tranqueiras que habitam na home das TV BOXes e das Google TVs. As principais indicações são o [Projectivy](https://projectivylauncher.com/) e o [Flauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher&hl=en-US).
 
 ### TV LG 🔴
 
 > [!IMPORTANT]
-> Aqui você **vai precisar de um computador ou notebook** para conseguir realizar os procedimentos
+> Aqui você vai precisar de um computador ou notebook** para conseguir realizar os procedimentos
  
 Andei *esquentando a mufa* há alguns meses com um aparelho da marca, então posso falar com um pouco mais de experiência nessa parte.
 
