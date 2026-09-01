@@ -1,5 +1,5 @@
-languageCode = "pt-br"
-languageName = "Português"
+locale = "pt-br"
+label = "Português"
 weight = 1
 title = "Millennial Idoso"
 
@@ -12,4 +12,5 @@ title = "Millennial Idoso"
     links = [
       { github = "https://github.com/millenial-idoso" },
       { bluesky = "https://bsky.app/profile/millenial-idoso.bsky.social" },
+      { rss = "/index.xml" }
     ]
